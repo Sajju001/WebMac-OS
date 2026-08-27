@@ -196,7 +196,7 @@ webmac/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/webmac-os.git
+git clone https://github.com/sajju001/webmac-os.git
 ```
 
 Open the project:
